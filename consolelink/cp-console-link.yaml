@@ -1,0 +1,11 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleLink
+metadata:
+  name: cp-console
+spec:
+  applicationMenu:
+    section: ACE
+  # Update with valid https url
+  href: https://cp-console.apps.dr.seatechit.com.vn
+  location: ApplicationMenu
+  text: CP Console

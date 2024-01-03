@@ -1,0 +1,11 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleLink
+metadata:
+  name: ${NAME}
+spec:
+  applicationMenu:
+    section: ${SECTION}
+  # Update with valid https url
+  href: ${URL}
+  location: ApplicationMenu
+  text: ${TEXT}

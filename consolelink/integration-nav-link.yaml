@@ -1,0 +1,11 @@
+apiVersion: console.openshift.io/v1
+kind: ConsoleLink
+metadata:
+  name: integration-nav
+spec:
+  applicationMenu:
+    section: ACE
+  # Update with valid https url
+  href: https://integration-navigator-pn-tools.apps.dr.seatechit.com.vn
+  location: ApplicationMenu
+  text: Integration Navigator
