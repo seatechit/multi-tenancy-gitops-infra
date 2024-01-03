@@ -4,8 +4,8 @@ metadata:
   name: cpd-console
 spec:
   applicationMenu:
-    section: ACE
+    section: IBM Cloud Paks
   # Update with valid https url
   href: https://cpd-tools.apps.dr.seatechit.com.vn
   location: ApplicationMenu
-  text: CPD Console
+  text: IBM Cloud Pak for Integration

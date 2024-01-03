@@ -4,8 +4,8 @@ metadata:
   name: cp-console
 spec:
   applicationMenu:
-    section: ACE
+    section: IBM Cloud Paks
   # Update with valid https url
   href: https://cp-console.apps.dr.seatechit.com.vn
   location: ApplicationMenu
-  text: CP Console
+  text: Administration
