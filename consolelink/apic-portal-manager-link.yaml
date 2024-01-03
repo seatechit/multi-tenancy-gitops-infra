@@ -6,6 +6,6 @@ spec:
   applicationMenu:
     section: APIC
   # Update with valid https url
-  href: https://apic-clust-98fb145d-portal-web-tools.apps.dr.seatechit.com.vn
+  href: https://apic-clust-db6305d6-portal-web-tools.apps.cp4i.seatechit.com.vn
   location: ApplicationMenu
   text: APIC Portal Manager
